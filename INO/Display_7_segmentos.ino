@@ -1,5 +1,7 @@
-//Contador de 0-9 Display de 7 Segmentos
-//Por :Alejandro Flores
+/*
+  @author: Fermín Alejandro Flores Reyes
+  @description: Contador de 0-9 Display de 7 Segmentos
+*/
 
 int desg(int a,int b, int c, int d, int e, int f, int g, int pd, int num); //Declaramos nuestra Función
 void setup() {

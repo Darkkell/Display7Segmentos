@@ -25,6 +25,12 @@ void loop() {
 
 }
 
+/*
+  @params
+    a ... pd -> pin de dicho segmento del display
+    num -> numero que queremos mostrar
+*/
+
 int dseg(int a,int b, int c, int d,int e, int f, int g, int pd, int num){
   
   //Asignamos el modo de nuestro Pin
